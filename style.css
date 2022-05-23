@@ -1,0 +1,75 @@
+.container-body{
+    background-image: url(img/findcars.jpg);
+    background-size: cover;
+    width: 69.4rem;
+    height: 35rem;
+    /* max-height: 35rem; */
+    margin: 0 auto;
+    
+}
+
+/* .fffm{
+    position: relative;
+    top: 93%;
+}
+.yhh{
+    position: relative;
+    right: 10%;
+} */
+
+.container2{
+    background-color: rgb(231, 231, 231);
+}
+.rows{
+    background-color: rgb(231, 231, 231);
+}
+
+.img2{
+    width: 7rem;
+    height: 4rem;
+}
+
+.cars{
+    width: 22.8rem;
+    height: auto;
+}
+
+.rowed{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.clos{
+    color: gray;
+}
+
+.opt{
+    background-color: rgb(231, 231, 231);
+    border: none;
+}
+
+.forms{
+    height: 4rem;
+    border: none;
+    position: relative;
+    /* bottom: 39.5%; */
+    top: 778%;
+    /* bottom: 90%; */
+    width: 50%;
+    /* text-align: center; */
+    
+}
+
+.formd{
+    width: 10rem;
+    
+}
+
+input[type="text"] {
+    padding-left: 2rem;
+}
+
+.ssh{
+    justify-content: center;
+}
